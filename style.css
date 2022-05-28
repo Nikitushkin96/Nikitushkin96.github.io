@@ -353,8 +353,8 @@
     position: relative;
     box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
 }
 
 .photomechanics__helper-text {
@@ -366,7 +366,7 @@
 .photomechanics__helper-icon {
     height: 90px;
     width: 90px;
-    margin: 30px auto;
+    margin: 10px auto;
     -webkit-mask-image: url(icons/360.svg);
     mask-image: url(icons/360.svg);
 }
