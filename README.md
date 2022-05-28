@@ -94,7 +94,7 @@ helperBgColor: string
 
 /**
  * Текст подсказки, может иметь HTML тэги
- * @default 'Просто крутите<br/> в разные стороны'
+ * @default ' крутите<br/> в разные стороны'
  */
 helperText: string
 
