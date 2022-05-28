@@ -334,8 +334,8 @@
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: left;
-    align-items: center;
+    justify-content: center;
+    align-items: left;
     opacity: 1;
     -webkit-transition: opacity 0.4s ease;
     transition: opacity 0.4s ease;
@@ -353,7 +353,7 @@
     position: relative;
     box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    width: 280px;
+    width: 60px;
     height: 60px;
 }
 
@@ -364,8 +364,8 @@
 }
 
 .photomechanics__helper-icon {
-    height: 90px;
-    width: 90px;
+    height: 120px;
+    width: 120px;
     margin: 5px auto;
     -webkit-mask-image: url(icons/360.svg);
     mask-image: url(icons/360.svg);
