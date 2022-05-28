@@ -353,8 +353,8 @@
     position: relative;
     box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
-    width: 220px;
-    height: 220px;
+    width: 100px;
+    height: 100px;
 }
 
 .photomechanics__helper-text {
