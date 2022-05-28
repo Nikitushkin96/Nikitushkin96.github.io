@@ -255,6 +255,7 @@
 }
 
 /* from / to fullscreen control */
+/*
 .photomechanics__control-fullscreen span {
     -webkit-mask-image: url(icons/fullscreen.svg);
     mask-image: url(icons/fullscreen.svg);
@@ -264,8 +265,9 @@
     -webkit-mask-image: url(icons/fullscreen_exit.svg);
     mask-image: url(icons/fullscreen_exit.svg);
 }
-
+*/
 /* play / stop control */
+/*
 .photomechanics__control-play span {
     height: 20px;
     background-color: #ed1c24;
@@ -282,50 +284,57 @@
     -webkit-mask-image: url(icons/stop.svg);
     mask-image: url(icons/stop.svg);
 }
-
+*/
 /* forward control */
+/*
 .photomechanics__control-forward span {
     border-color: #ed1c24;
     -webkit-mask-image: url(icons/arrow.svg);
     mask-image: url(icons/arrow.svg);
 }
-
+*/
 /* backward control */
+/*
 .photomechanics__control-backward span {
     -webkit-mask-image: url(icons/arrow.svg);
     mask-image: url(icons/arrow.svg);
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
-
+*/
 /* up control */
+/*
 .photomechanics__control-up span {
     -webkit-mask-image: url(icons/arrow.svg);
     mask-image: url(icons/arrow.svg);
     -webkit-transform: rotate(-90deg);
     transform: rotate(-90deg);
 }
-
+*/
 /* down control */
+/*
 .photomechanics__control-down span {
     -webkit-mask-image: url(icons/arrow.svg);
     mask-image: url(icons/arrow.svg);
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-
+*/
 /* zoom-in control */
+/*
 .photomechanics__control-zoom-in span {
     -webkit-mask-image: url(icons/zoom-in.svg);
     mask-image: url(icons/zoom-in.svg);
 }
+*/
 
 /* zoom-out control */
+/*
 .photomechanics__control-zoom-out span {
     -webkit-mask-image: url(icons/zoom-out.svg);
     mask-image: url(icons/zoom-out.svg);
 }
-
+*/
 /* helper */
 /*
 .photomechanics__helper {
