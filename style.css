@@ -3,8 +3,8 @@
 /* laoder */
 .photomechanics__loader {
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 50%;
+    left: 50%;
     width: 30px;
     height: 30px;
     margin-top: -23px;
@@ -195,7 +195,7 @@
 
 .photomechanics__controls-menu {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .photomechanics__controls--position-center {
