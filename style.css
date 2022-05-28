@@ -329,7 +329,7 @@
 /* helper */
 .photomechanics__helper {
     position: absolute;
-    left: 0px;
+    left: 200px;
     top: 0px;
     width: 100%;
     height: 100%;
@@ -364,8 +364,8 @@
 }
 
 .photomechanics__helper-icon {
-    height: 120px;
-    width: 120px;
+    height: 90px;
+    width: 90px;
     margin: 5px auto;
     -webkit-mask-image: url(icons/360.svg);
     mask-image: url(icons/360.svg);
