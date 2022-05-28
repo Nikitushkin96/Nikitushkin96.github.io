@@ -335,7 +335,7 @@
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     opacity: 1;
     -webkit-transition: opacity 0.4s ease;
     transition: opacity 0.4s ease;
@@ -364,7 +364,7 @@
 }
 
 .photomechanics__helper-icon {
-    height: 120px;
+    height: 520px;
     width: 120px;
     margin: 5px auto;
     -webkit-mask-image: url(icons/360.svg);
