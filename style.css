@@ -87,13 +87,13 @@
     -webkit-box-sizing: border-box;
     width: 55px;
     height: 55px;
-    position: none;
+    position: absolute;
     top: 25px;
     left: 25px;
     border-radius: 50%;
     box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.3);
     cursor: pointer;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     -webkit-transform: rotate(0deg);
