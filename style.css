@@ -87,7 +87,7 @@
     -webkit-box-sizing: border-box;
     width: 55px;
     height: 55px;
-    position: absolute;
+    position: none;
     top: 25px;
     left: 25px;
     border-radius: 50%;
