@@ -63,7 +63,7 @@
 .photomechanics__line-loader span {
     display: block;
     background: #ccc;
-    height: 70%;
+    height: 100%;
     transition: width 0.2s ease;
     border-radius: 2px;
     max-width: 100%;
@@ -181,7 +181,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: auto;
+    /*height: auto; */
     overflow: hidden;
 }
 
