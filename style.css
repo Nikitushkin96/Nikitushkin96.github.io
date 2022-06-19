@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:500&subset=cyrillic');
 
 /* laoder */
-.photomechanics__loader {
+/*.photomechanics__loader {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -33,7 +33,7 @@
     stroke-width: 2px;
     opacity: 0;
 }
-
+*/
 @keyframes spinner-rotate {
     to {
         transform: rotate3d(0, 0, 1, 360deg);
@@ -181,7 +181,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /*height: auto; */
+    height: auto;
     overflow: hidden;
 }
 
