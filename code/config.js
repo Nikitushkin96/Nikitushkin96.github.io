@@ -5,8 +5,8 @@
 			"impetus": "true", //"false"
 			"containerSelector": ".pro360",
 			"autoplay": {"interval": 100, "bounce": false},//frame timeout
-			"folder":"500/",
-			"zoomfolder":"2000/",
+			"folder":"https://nikitushkin96.github.io/500/",
+			"zoomfolder":"https://nikitushkin96.github.io/2000/",
 			"file": "{XXX}.jpg", // {-XXX}.jpg for order inversion
 			//"invertScroll": true, // uncomment for inverting scroll direction
 			"type": "row",
